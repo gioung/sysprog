@@ -2,8 +2,8 @@
 
 int main()
 {
-	char* str = "Hello world";
-	printf("%s\n",str);
-	return 1;
+	char* str = "Hello world\n";
+	printf("%s",str);
+	return 0;
 }
 
